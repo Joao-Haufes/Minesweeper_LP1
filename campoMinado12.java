@@ -4,7 +4,7 @@ Aluno: João Pedro Haufes
 Turma: Info-126
 Data: 21/10/19
 **/
-//aramazea no vetor e ve se ja tem a jogadda
+//armazena no vetor e ve se ja tem a jogadda
 //fim ve a qnt de jogada que tu tive
 import java.util.Scanner;
 import java.util.Random;
