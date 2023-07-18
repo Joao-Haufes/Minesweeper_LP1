@@ -1,6 +1,6 @@
 # Minesweeper Game in Java
 
-This repository contains an implementation of the classic Minesweeper game in Java, developed by João Victor Alves de Lima and João Pedro Haufes as part of their Info-126 class on October 21, 2019.
+This repository contains an implementation of the classic Minesweeper game in Java, developed by João Pedro Haufes and João Victor Alves de Lima as part of their Info-126 class on October 21, 2019.
 
 ## Game Description
 
